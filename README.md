@@ -2,7 +2,6 @@
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Engenhei&theme=dracula&show_icons=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engenhei&layout=compact&langs_count=16&theme=dracula&show_icons=true"/>
 </div>
  <br>
 
